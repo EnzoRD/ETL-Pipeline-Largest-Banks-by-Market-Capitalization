@@ -1,0 +1,15 @@
+2025-01-04 04:24:05.752536 : Preliminares completos. Iniciando proceso ETL
+2025-01-04 04:24:06.576758 : Extracción de datos completa. Iniciando proceso de transformación
+2025-01-04 04:24:06.583388 : Transformación de datos completa. Iniciando proceso de carga
+2025-01-04 04:24:06.585387 : Datos guardados en el archivo CSV
+2025-01-04 04:24:06.613220 : Datos cargados en la base de datos como una tabla, ejecutando consultas
+2025-01-04 04:24:06.627445 : Proceso completo
+2025-01-04 04:38:39.861834 : Preliminares completos. Iniciando proceso ETL
+2025-01-04 04:38:41.498664 : Extracción de datos completa. Iniciando proceso de transformación
+2025-01-04 04:38:41.501666 : Transformación de datos completa. Iniciando proceso de carga
+2025-01-04 04:38:41.504664 : Datos guardados en el archivo CSV
+2025-01-04 04:38:41.530200 : Datos cargados en la base de datos como una tabla, ejecutando consultas
+2025-01-04 04:38:41.540202 : Proceso completo
+2025-01-04 04:39:05.131719 : Preliminares completos. Iniciando proceso ETL
+2025-01-04 04:41:37.854965 : Preliminares completos. Iniciando proceso ETL
+2025-01-04 04:41:42.848431 : Preliminares completos. Iniciando proceso ETL
